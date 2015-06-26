@@ -19,8 +19,6 @@
 //= require websocket_rails/main
 //= require select2
 //= require search_schedules
-//= require kendo.web.min
-//= require kendo.custom
 //= require repeats
 
 var schedule_start_time, schedule_finish_time;
